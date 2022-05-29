@@ -1,0 +1,159 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: poppins-Bold;
+  src: url(/font/Poppins-Bold.ttf);
+}
+@font-face {
+  font-family: poppins-Medium;
+  src: url(/font/Poppins-Medium.ttf);
+}
+a {
+  text-decoration: none;
+  color: #9e9aa8;
+  font-family: poppins-Bold;
+  font-size: 15px;
+}
+.Back {
+  background-image: url(/img/Rectangle.png);
+}
+.logo-nav {
+  display: flex;
+}
+.logo {
+  margin-left: 100px;
+  margin-top: 40px;
+}
+.navagation {
+  margin-left: 100px;
+  margin-top: 40px;
+  color: #9e9aa8;
+}
+.Features {
+  /*padding-left: 30px;*/
+  padding-right: 30px;
+}
+.Features:hover {
+  cursor: pointer;
+  color: #000;
+}
+.Login {
+  font-family: poppins-Bold;
+  margin-left: 500px;
+}
+.singin {
+  font-family: poppins-Bold;
+  color: #fff;
+  background-color: #2bd0d0;
+  border: none solid;
+  border-radius: 30px;
+  padding: 10px 30px;
+}
+.singin:hover {
+  background-color: #9ae3e3;
+  cursor: pointer;
+}
+.head {
+  color: #34313d;
+  font-size: 80px;
+  font-family: poppins-Bold;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.paragraph {
+  color: #9e9aa8;
+  font-size: 22px;
+  font-family: poppins-Medium;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+.bottom {
+  margin: 100px;
+  border: none solid;
+  border-radius: 30px;
+  background-color: #2bd0d0;
+  color: #fff;
+  font-size: 20px;
+  font-family: poppins-Bold;
+  padding: 20px 20px;
+}
+.img-head {
+  display: flex;
+}
+.input {
+  color: #f46363;
+    margin: 50px 200px 0px 200px;
+    padding: 30px;
+    border: #f46363 solid;
+    border-radius: 10px;
+    width: 40%;
+}
+.form {
+  padding: 30px;
+  background-color: #3a3054;
+  margin-top: 50px;
+}
+.Shorten {
+  border-radius: 15px;
+  padding: 20px 30px;
+}
+.bottom:hover {
+  background-color: #9ae3e3;
+  cursor: pointer;
+}
+.jj {
+  margin: 0px;
+  padding: 20px;
+}
+.par {
+  margin: 0px 300px 0px 300px;
+}
+.boxes {
+  display: flex;
+  margin: 100px 100px 50px 100px;
+}
+.box {
+  border: none solid;
+  border-radius: 15px;
+  background-color: #fff;
+  text-align: center;
+  margin-right: 50px;
+  padding: 20px;
+  line-height: 50px;
+}
+.leval2 {
+  margin-top: 20px;
+}
+.leval3 {
+  margin-top: 50px;
+}
+.Brand {
+  color: #34313d;
+  font-size: 22px;
+  font-family: poppins-Bold;
+}
+.Brand {
+  color: #9e9aa8;
+  font-size: 15px;
+  font-family: poppins-Medium;
+}
+.Bost {
+  background-color: #3a3054;
+  margin: 0px;
+  padding: 30px;
+}
+.nav {
+  margin: 50px;
+}
+.link {
+  color: #fff;
+}
+.link:hover {
+  color: #2bd0d0;
+}
+.dd {
+  background-color: #000;
+}
